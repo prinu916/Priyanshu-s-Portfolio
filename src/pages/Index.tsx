@@ -7,6 +7,7 @@ import Skills from "@/components/Skills";
 import Achievements from "@/components/Achievements";
 import Contact from "@/components/Contact";
 import CursorEffect from "@/components/CursorEffect";
+import Chatbot from "@/components/Chatbot";
 import ScrollProgress from "@/components/ScrollProgress";
 import Stars from "@/components/Stars";
 
@@ -25,6 +26,7 @@ const Index = () => {
       <Skills />
       <Achievements />
       <Contact />
+      <Chatbot />
     </main>
   );
 
