@@ -43,13 +43,6 @@ npm run build
 # Preview
 npm run preview
 ```
-
-## 📱 Screenshots
-
-| Hero Section | Projects | Contact Form |
-|--------------|----------|--------------|
-| ![Hero](https://via.placeholder.com/800x400/8b5cf6/ffffff?text=Hero) | ![Projects](https://via.placeholder.com/800x400/1e1b4b/ffffff?text=Projects) | ![Contact](https://via.placeholder.com/800x400/0f172a/ffffff?text=Contact) |
-
 ## 🔧 Customization
 
 1. **Profile**: `src/data/portfolio.ts`
